@@ -1,6 +1,6 @@
-# Elections_Analysis
+**Elections_Analysis**
 
-## Project Overview
+**Project Overview**
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
 
 1. Calculate the total number of votes cast.
@@ -9,11 +9,14 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 4. Calculate the perecentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
 
-## Resources
-- Data Souce: elections_results.csv
-- Software: Python 3.10.4, Visual Studio Code, 1.67.0
+**Resources**
+> Data Souce: elections_results.csv
+> Software: Python 3.10.4, Visual Studio Code, 1.67.0
 
-## Summary
+**Results**
+![This is an image]
+
+**Summary**
 The analysis of the election show that:
 - There were "369,711" votes in the election.
 
@@ -31,8 +34,9 @@ The analysis of the election show that:
 - The winnder of the election was:
   - Candidate Diana DeGette, who received "Winning Percentage: 73.8%" of the vote and "Winning Vote Count: 272,892" number of votes
 
-## Challenge Overview
-
-## Challenge Summary
+**Challenge Overview**
+This project was vigorous and took time and dedication. Taught me how to creat different types of files and how to interact with them in VS code. The challenge was to create
+**Challenge Summary**
+I feel with this project that I have learn the the basics of python. That I will be able to creat lists, dictionaries, loops, and other forms of code that will facilitate my life in work and life.
 
 
