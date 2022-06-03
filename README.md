@@ -14,7 +14,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 > Software: Python 3.10.4, Visual Studio Code, 1.67.0
 
 **Results**
-![This is an image](/Users/sebastianaristizabal/Desktop/UM_data_camp/Module_3_Python/Elections_Analysis1/Elections_Analysis_Result.png)
+![This is an image](Elections_Analysis_Result.png)
 
 **Summary**
 The analysis of the election show that:
