@@ -35,6 +35,7 @@ The analysis of the election show that:
 
 **Challenge Overview**
 This project was vigorous and took time and dedication. Taught me how to creat different types of files and how to interact with them in VS code. The challenge was to create
+
 **Challenge Summary**
 I feel with this project that I have learn the the basics of python. That I will be able to creat lists, dictionaries, loops, and other forms of code that will facilitate my life in work and life.
 
